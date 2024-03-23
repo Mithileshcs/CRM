@@ -60,3 +60,17 @@ To run the CRM app locally on your machine, follow these steps:
 6. **Access the App**: Open a web browser and navigate to `http://localhost:8000` to access the CRM app. You can log in with your superuser account to begin using the app.
 
 
+## Images:
+
+-**User Registration**
+![Register user Page](crm_reg.png)
+-**User Login**
+![Login Page](crm_login.png)
+-**Add Customer Data**
+![Add records Page](crm_addrec.png)
+-**View Customer Data**
+-users can view, update and delete records
+![view Records Page](crm_viewrec.png)
+-**Update Customer Data**
+![Update Records Page](crm_updaterec.png)
+
