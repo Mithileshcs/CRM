@@ -24,7 +24,7 @@ This CRM (Customer Relationship Management) app provides a user-friendly interfa
 
 - **Django Authentication**: Django's built-in authentication system is used to handle user registration, login, and logout functionalities securely.
 
-- **SQLite Database**: Customer data is stored in an SQLite database, ensuring efficient data management and retrieval.
+- **MYSQL Database**: Customer data is stored in an MySql database, ensuring efficient data management and retrieval.
 
 - **HTML/CSS**: The user interface is designed using HTML and CSS, providing a visually appealing and intuitive experience for users.
 
