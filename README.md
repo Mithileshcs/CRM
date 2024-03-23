@@ -63,14 +63,30 @@ To run the CRM app locally on your machine, follow these steps:
 ## Images:
 
 -**User Registration**
+
 ![Register user Page](crm_reg.png)
+
+
 -**User Login**
+
 ![Login Page](crm_login.png)
+
+
 -**Add Customer Data**
+
 ![Add records Page](crm_addrec.png)
+
+
 -**View Customer Data**
+
 -users can view, update and delete records
+
 ![view Records Page](crm_viewrec.png)
+
+
 -**Update Customer Data**
+
 ![Update Records Page](crm_updaterec.png)
+
+
 
